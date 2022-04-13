@@ -111,7 +111,7 @@ export default {
             loading:false,
             searcher:"",
             //url_api:"http://localhost:8000/api/customers"
-            url_api: "https://app-prueba-finesa-backend.herokuapp.com/api/customer"
+            url_api: "https://app-prueba-finesa-backend.herokuapp.com/api/customers"
         }       
     },
     mounted(){
